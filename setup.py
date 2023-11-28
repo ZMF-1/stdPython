@@ -38,7 +38,7 @@ setup(
     author="ZMF",
     author_email="ZZMF20110806@163.com",
     description="Python package importing all in one!!!!",
-    long_description=long_description,    #包的详细介绍，一般在README.md文件内
+    long_description=long_description,
     long_description_content_type="text/markdown",
     python_requires='>=3',
     packages=find_packages()
