@@ -6,7 +6,7 @@
 # @IDE: PyCharm
 # @E-Mail: ZZMF20110806@163.com
 author = 'ZMF'
-version = 'V1.0.0'
+version = 'V1.0.1'
 pack_name = 'stdPython'
 help_file = 'help.py'
 files = ['__init__.py', 'information.py', 'help.py']
