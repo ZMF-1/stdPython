@@ -34,7 +34,7 @@ setup(
         'Programming Language :: Python :: 3.13',
     ],
     name="stdPython",
-    version="1.0.0",
+    version="1.0.1",
     author="ZMF",
     author_email="ZZMF20110806@163.com",
     description="Python package importing all in one!!!!",
